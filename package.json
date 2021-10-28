@@ -1,0 +1,21 @@
+{
+  "name": "huge-num",
+  "version": "1.0.0",
+  "description": "A library to work with huge numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emit",
+    "em-it",
+    "em_it",
+    "numbers",
+    "big",
+    "big-num",
+    "math",
+    "huge-num"
+  ],
+  "author": "em_it",
+  "license": "ISC"
+}
