@@ -1,5 +1,5 @@
 # Huge Numbers
-A npm package to work with huge numbers
+A npm package to apply math operations on huge numbers
 
 
 - Numbers size limit:
