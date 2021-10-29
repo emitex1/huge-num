@@ -5,7 +5,6 @@ module.exports = function(num) {
 
   function HugeNum() {
     this.value = num || 0;
-    console.log(this.value);
   }
 
   function strReverse(str) {
