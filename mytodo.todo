@@ -1,0 +1,30 @@
+Operations:
+  Main:
+    ☐ minus
+    ☐ devide by
+    ☐ reminder
+  Compare:
+    ☐ eqaul to
+    ☐ greater than
+    ☐ lower than
+    ☐ compare
+    ☐ is odd
+    ☐ is even
+    ☐ is negative
+    ☐ negate
+  Other:
+    ☐ absolute
+    ☐ power
+    ☐ next / previous
+    ☐ min / max
+
+Document:
+  ☐ write install method
+  ☐ place the minified file address
+  ☐ write usage examples
+  ☐ wiki
+
+Improvements:
+  ☐ use normal operations on small numbers
+  ☐ use auto runner
+  ✔ add start script @done(21-10-30 17:23)
