@@ -1,5 +1,7 @@
 var HugeNum = require("./index.js");
 
+console.log('Here are some usage samples:');
+
 const NUMBER_1 = "12213345674890";
 const NUMBER_2 = "564564574982348";
 
