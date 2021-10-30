@@ -23,7 +23,7 @@ Install HugeNum using [npm](https://www.npmjs.com/package/huge-num):
 
 Then you can use the operators on a huge number
 ```js
-import HugeNum from 'huge-num'
+import HugeNum from 'huge-num';
 
 const NUMBER_1 = "12213345674890";
 const NUMBER_2 = "564564574982348";
