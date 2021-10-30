@@ -21,22 +21,30 @@ Install HugeNum using [npm](https://www.npmjs.com/package/huge-num):
 
     npm install huge-num
 
-Then you can use the operators on a huge number
+Then you can define a huge number using a string
 ```js
 import HugeNum from 'huge-num';
 
 const NUMBER_1 = "12213345674890";
 const NUMBER_2 = "564564574982348";
 
-// define a huge num from a string
 let n1 = HugeNum(NUMBER_1);
+let n2 = HugeNum(NUMBER_2);
+```
 
-// summation operator
+Then you can use the operators on a huge number
+
+### `huge_number_1.sum(huge_number_2)`
+
+```js
 const summation = n1.sum(NUMBER_2);
 console.log(NUMBER_1 + ' + ' + NUMBER_2 + '=', summation);
 // result -> 12213345674890 + 564564574982348= 576777920657238
+```
 
-// multiply operator
+### `huge_number_1.multiply(huge_number_2)`
+
+```js
 const multiply = n1.multiply(NUMBER_2);
 console.log(NUMBER_1 + ' *+* ' + NUMBER_2 + '=', multiply);
 // result -> 12213345674890 * 564564574982348= 6895222310056771043896841720
