@@ -10,9 +10,9 @@ A npm package to apply math 🔢 operations on huge numbers
   - unlimited
 - Math operators:
   - Sum (+)
-  - Minus (-)
-  - Multiply (*)
-  - Devide (/)
+  <!-- - Minus (-) -->
+  - Multiply (×)
+  <!-- - Devide (÷) -->
 
 ## Links:
 <!-- [Live Example](https://netherland-explorer.netlify.app/) -->
