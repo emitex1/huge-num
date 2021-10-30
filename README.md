@@ -1,5 +1,5 @@
 # Huge Numbers
-A npm package to apply math 🔢 operations on huge numbers
+A npm package to apply math 🔢 operations on huge numbers (unlimited length 😉)
 
 [![Version](https://img.shields.io/npm/v/huge-num.svg)](https://www.npmjs.com/package/huge-num)
 [![Downloads](https://img.shields.io/npm/dm/huge-num.svg)](https://www.npmjs.com/package/huge-num)
@@ -57,8 +57,9 @@ for example: -->
 
 ## Documentation:
 <!-- - [Live Example](https://netherland-explorer.netlify.app/) -->
-- [The Official Page](https://em-it.github.io/huge-num/)
-- [Technical Documents in the Wiki](https://github.com/Em-IT/huge-num/wiki)
+- [Github Official Page](https://em-it.github.io/huge-num/)
+- [Wiki of Technical Documents](https://github.com/Em-IT/huge-num/wiki)
+- [NPM Package](https://www.npmjs.com/package/huge-num)
 
 
 ## Contributors
