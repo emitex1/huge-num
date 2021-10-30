@@ -50,14 +50,16 @@ console.log(NUMBER_1 + ' *+* ' + NUMBER_2 + '=', multiply);
 // result -> 12213345674890 * 564564574982348= 6895222310056771043896841720
 ```
 
+<!-- ### Method Chaining
+HugeNum operations return HugeNums, which allows you to chain methods.
+for example: -->
+
+
 ## Documentation:
 <!-- - [Live Example](https://netherland-explorer.netlify.app/) -->
 - [The Official Page](https://em-it.github.io/huge-num/)
 - [Technical Documents in the Wiki](https://github.com/Em-IT/huge-num/wiki)
 
-<!-- ![](/src/assets/images/logo.png) -->
-
-<!-- ## Usage: -->
 
 ## Developer:
 
