@@ -61,14 +61,17 @@ for example: -->
 - [Technical Documents in the Wiki](https://github.com/Em-IT/huge-num/wiki)
 
 
+## Contributors
+To contribute, just fork the project, make some changes, and submit a pull request. 
+
+
+## License
+This project is public domain. For more details, read about the [Unlicense](http://unlicense.org/).
+
+
 ## Developer:
-
 * **Emad Armoun**
-
 * [www.EmadArmoun.com](http://www.EmadArmoun.com)
-
 * [Emad.Armoun@gmail.com](Emad.Armoun@gmail.com)
-
 * [LinkedIn profile](https://www.linkedin.com/in/em-it/)
-
 <!-- ![](/src/assets/images/me.jpg) -->
