@@ -19,9 +19,9 @@ Operations:
     ☐ min / max
 
 Document:
-  ☐ write install method
+  ✔ write install method @done(21-10-31 23:36)
   ☐ place the minified file address
-  ☐ write usage examples
+  ✔ write usage examples @done(21-10-31 23:36)
   ☐ wiki
 
 Improvements:
@@ -29,3 +29,6 @@ Improvements:
   ☐ use auto runner
   ✔ add start script @done(21-10-30 17:23)
   ☐ method chaining
+  ☐ check invalid input data
+  ☐ write some tests for functions
+  ☐ use auto publish actions
