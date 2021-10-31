@@ -5,7 +5,8 @@
   "homepage": "https://em-it.github.io/huge-num/",
   "main": "index.js",
   "scripts": {
-    "usage": "node usage.js"
+    "usage": "node usage.js",
+    "test": "echo \"No test specified\""
   },
   "keywords": [
     "emit",
