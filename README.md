@@ -3,7 +3,8 @@ A npm package to apply math ðŸ”¢ operations on huge numbers (unlimited length ðŸ
 
 [![Version](https://img.shields.io/npm/v/huge-num.svg)](https://www.npmjs.com/package/huge-num)
 [![Downloads](https://img.shields.io/npm/dm/huge-num.svg)](https://www.npmjs.com/package/huge-num)
-<!-- [![License](https://img.shields.io/github/license/em-it/huge-num.svg)](https://github.com/em-it/huge-num/blob/master/LICENSE) -->
+[![License](https://img.shields.io/github/license/em-it/huge-num.svg)](https://github.com/em-it/huge-num/blob/master/LICENSE)
+[![Coverage Status](https://coveralls.io/repos/github/Em-IT/huge-num/badge.svg?branch=master)](https://coveralls.io/github/Em-IT/huge-num?branch=master)
 
 ## Features:
 - Numbers size limit:
