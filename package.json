@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "usage": "node usage.js",
-    "test": "echo \"No test specified\""
+    "test": "jest"
   },
   "keywords": [
     "emit",
