@@ -23,5 +23,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Em-IT/huge-num.git"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
   }
 }
