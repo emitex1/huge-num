@@ -30,5 +30,5 @@ Improvements:
   ✔ add start script @done(21-10-30 17:23)
   ☐ method chaining
   ☐ check invalid input data
-  ☐ write some tests for functions
+  ✔ write some tests for functions @done(21-11-02 09:40)
   ☐ use auto publish actions
