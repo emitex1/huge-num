@@ -32,3 +32,6 @@ Improvements:
   ☐ check invalid input data
   ✔ write some tests for functions @done(21-11-02 09:40)
   ☐ use auto publish actions
+  ✔ jest additional configuration @done(21-11-03 18:41)
+  ☐ make the codes as es6 style, using babel
+  ☐ install travis to show code-coverage
