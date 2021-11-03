@@ -12,7 +12,7 @@ function removeInitialZero(str) {
     return str.substr(zeroLength);
 }
 
-module.exports = {
-  strReverse,
-  removeInitialZero
+export {
+    strReverse,
+    removeInitialZero
 };

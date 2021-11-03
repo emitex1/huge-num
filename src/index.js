@@ -1,9 +1,9 @@
 'use strict';
 
-var sum = require('./core/sum');
-var multiply = require('./core/multiply');
+import sum from './core/sum/sum.js';
+import multiply from './core/multiply/multiply.js';
 
-module.exports = function(num) {
+export default function(num) {
   var value;
 
   function HugeNum() {

@@ -1,4 +1,4 @@
-var multiply = require('../../src/core/multiply');
+import multiply from './multiply.js';
 
 test('multiply 2 * 2 to equal 4', () => {
   expect(multiply(2, 2)).toBe("4");

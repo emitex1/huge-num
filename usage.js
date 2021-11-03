@@ -1,4 +1,4 @@
-var HugeNum = require("./src/index.js");
+import HugeNum from "./src/index.js";
 
 console.log('Here are some usage samples:');
 

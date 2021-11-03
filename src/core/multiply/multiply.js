@@ -1,7 +1,7 @@
-var { strReverse, removeInitialZero } = require('../util/util');
-var sum = require('./sum');
+import { strReverse, removeInitialZero } from '../../util/util.js';
+import sum from '../sum/sum.js';
 
-module.exports = function multiply(a, b) {
+export default function multiply(a, b) {
   let result = '0';
   let aString = a.toString();
   let bString = b.toString();

@@ -1,4 +1,4 @@
-var sum = require('../../src/core/sum');
+import sum from './sum.js';
 
 test('adds 1 + 1 to equal 2', () => {
   expect(sum(1,1)).toBe("2");

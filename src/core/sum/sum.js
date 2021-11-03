@@ -1,6 +1,6 @@
-var { strReverse, removeInitialZero } = require('../util/util');
+import { strReverse, removeInitialZero } from '../../util/util.js';
 
-module.exports = function sum(a, b) {
+export default function sum(a, b) {
   let result = '';
 
   const aRevStr = strReverse(a);
