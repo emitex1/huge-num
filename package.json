@@ -1,6 +1,6 @@
 {
   "name": "huge-num",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "description": "A npm package to apply math operations on huge numbers",
   "homepage": "https://em-it.github.io/huge-num/",
   "main": "src/index.js",
@@ -26,6 +26,9 @@
     "url": "https://github.com/Em-IT/huge-num.git"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.3.1",
     "jest": "^27.3.1"
   }
 }
