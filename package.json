@@ -1,6 +1,6 @@
 {
   "name": "huge-num",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "A npm package to apply math operations on huge numbers",
   "homepage": "https://em-it.github.io/huge-num/",
   "type": "module",
