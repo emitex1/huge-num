@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1636055537529" clover="3.2.0">
+  <project timestamp="1636055537529" name="All files">
+    <metrics statements="44" coveredstatements="44" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4" elements="56" coveredelements="56" complexity="0" loc="44" ncloc="44" packages="3" files="3" classes="3"/>
+    <package name="core.multiply">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="multiply.js" path="F:\Emad\My Projects\Huge Num\huge-num\src\core\multiply\multiply.js">
+        <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="15" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="11" count="15" type="stmt"/>
+        <line num="12" count="91" type="stmt"/>
+        <line num="13" count="15" type="stmt"/>
+        <line num="14" count="211" type="stmt"/>
+        <line num="15" count="211" type="stmt"/>
+        <line num="16" count="211" type="stmt"/>
+        <line num="17" count="211" type="stmt"/>
+        <line num="18" count="211" type="stmt"/>
+        <line num="20" count="15" type="stmt"/>
+        <line num="21" count="15" type="stmt"/>
+        <line num="22" count="15" type="stmt"/>
+        <line num="24" count="15" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="core.sum">
+      <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="sum.js" path="F:\Emad\My Projects\Huge Num\huge-num\src\core\sum\sum.js">
+        <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="12" count="315" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="315" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="315" type="stmt"/>
+        <line num="16" count="315" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="208" type="stmt"/>
+        <line num="18" count="208" type="stmt"/>
+        <line num="21" count="107" type="stmt"/>
+        <line num="22" count="107" type="stmt"/>
+        <line num="25" count="17" type="stmt"/>
+        <line num="27" count="17" type="stmt"/>
+        <line num="28" count="17" type="stmt"/>
+        <line num="29" count="17" type="stmt"/>
+      </file>
+    </package>
+    <package name="util">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="util.js" path="F:\Emad\My Projects\Huge Num\huge-num\src\util\util.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="66" type="stmt"/>
+        <line num="6" count="32" type="stmt"/>
+        <line num="7" count="32" type="stmt"/>
+        <line num="8" count="67" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="37" type="stmt"/>
+        <line num="11" count="30" type="stmt"/>
+        <line num="12" count="32" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
