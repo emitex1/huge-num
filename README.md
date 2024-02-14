@@ -58,8 +58,8 @@ for example: -->
 
 ## Documentation:
 <!-- - [Live Example](https://netherland-explorer.netlify.app/) -->
-- [Github Official Page](https://em-it.github.io/huge-num/)
-- [Wiki of Technical Documents](https://github.com/Em-IT/huge-num/wiki)
+- [Github Official Page](https://emitex1.github.io/huge-num/)
+- [Wiki of Technical Documents](https://github.com/emitex1/huge-num/wiki)
 - [NPM Package](https://www.npmjs.com/package/huge-num)
 
 
@@ -75,5 +75,5 @@ This project is public domain. For more details, read about the [Unlicense](http
 * **Emad Armoun**
 * [www.EmadArmoun.com](http://www.EmadArmoun.com)
 * [Emad.Armoun@gmail.com](Emad.Armoun@gmail.com)
-* [LinkedIn profile](https://www.linkedin.com/in/em-it/)
+* [LinkedIn profile](https://www.linkedin.com/in/emitex1/)
 <!-- ![](/src/assets/images/me.jpg) -->
